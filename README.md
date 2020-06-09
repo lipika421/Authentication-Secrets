@@ -1,6 +1,8 @@
 # Authentication-Secrets
 A web application using Node.js, Express.js and Mongoose
 
+A web application that allows users to submit their secrets anonymously and to view other peoples' secrets.
+
 Exploring all the levels of user authorization to make the website secure.
 
 Level 1: Register users with username and password
